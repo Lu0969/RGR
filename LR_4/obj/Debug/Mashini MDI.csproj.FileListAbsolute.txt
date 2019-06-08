@@ -1,0 +1,26 @@
+D:\4 sem\C#\Mashini MDI\Mashini MDI\obj\Debug\Mashini MDI.csprojResolveAssemblyReference.cache
+D:\4 sem\C#\Mashini MDI\Mashini MDI\obj\Debug\Car_GUI.EditForm.resources
+D:\4 sem\C#\Mashini MDI\Mashini MDI\obj\Debug\Mashini_MDI.MDIForm.resources
+D:\4 sem\C#\Mashini MDI\Mashini MDI\obj\Debug\Car_GUI.MainForm.resources
+D:\4 sem\C#\Mashini MDI\Mashini MDI\obj\Debug\Car_GUI.OpenForm.resources
+D:\4 sem\C#\Mashini MDI\Mashini MDI\obj\Debug\Mashini_MDI.Properties.Resources.resources
+D:\4 sem\C#\Mashini MDI\Mashini MDI\obj\Debug\Mashini MDI.csproj.GenerateResource.cache
+D:\4 sem\C#\Mashini MDI\Mashini MDI\obj\Debug\Mashini MDI.csproj.CoreCompileInputs.cache
+D:\4 sem\C#\Mashini MDI\Mashini MDI\bin\Debug\Mashini MDI.exe.config
+D:\4 sem\C#\Mashini MDI\Mashini MDI\bin\Debug\Mashini MDI.exe
+D:\4 sem\C#\Mashini MDI\Mashini MDI\bin\Debug\Mashini MDI.pdb
+D:\4 sem\C#\Mashini MDI\Mashini MDI\obj\Debug\Mashini MDI.exe
+D:\4 sem\C#\Mashini MDI\Mashini MDI\obj\Debug\Mashini MDI.pdb
+C:\Users\Екатерина\Desktop\Mashini MDI\Mashini MDI\bin\Debug\Mashini MDI.exe.config
+C:\Users\Екатерина\Desktop\Mashini MDI\Mashini MDI\bin\Debug\Mashini MDI.exe
+C:\Users\Екатерина\Desktop\Mashini MDI\Mashini MDI\bin\Debug\Mashini MDI.pdb
+C:\Users\Екатерина\Desktop\Mashini MDI\Mashini MDI\obj\Debug\Mashini MDI.csprojAssemblyReference.cache
+C:\Users\Екатерина\Desktop\Mashini MDI\Mashini MDI\obj\Debug\Car_GUI.EditForm.resources
+C:\Users\Екатерина\Desktop\Mashini MDI\Mashini MDI\obj\Debug\Mashini_MDI.MDIForm.resources
+C:\Users\Екатерина\Desktop\Mashini MDI\Mashini MDI\obj\Debug\Car_GUI.MainForm.resources
+C:\Users\Екатерина\Desktop\Mashini MDI\Mashini MDI\obj\Debug\Car_GUI.OpenForm.resources
+C:\Users\Екатерина\Desktop\Mashini MDI\Mashini MDI\obj\Debug\Mashini_MDI.Properties.Resources.resources
+C:\Users\Екатерина\Desktop\Mashini MDI\Mashini MDI\obj\Debug\Mashini MDI.csproj.GenerateResource.cache
+C:\Users\Екатерина\Desktop\Mashini MDI\Mashini MDI\obj\Debug\Mashini MDI.csproj.CoreCompileInputs.cache
+C:\Users\Екатерина\Desktop\Mashini MDI\Mashini MDI\obj\Debug\Mashini MDI.exe
+C:\Users\Екатерина\Desktop\Mashini MDI\Mashini MDI\obj\Debug\Mashini MDI.pdb
