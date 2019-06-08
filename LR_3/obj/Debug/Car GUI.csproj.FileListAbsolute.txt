@@ -1,0 +1,24 @@
+D:\4 sem\C#\Car GUI\Car GUI\bin\Debug\Car GUI.exe.config
+D:\4 sem\C#\Car GUI\Car GUI\bin\Debug\Car GUI.exe
+D:\4 sem\C#\Car GUI\Car GUI\bin\Debug\Car GUI.pdb
+D:\4 sem\C#\Car GUI\Car GUI\obj\Debug\Car GUI.csprojResolveAssemblyReference.cache
+D:\4 sem\C#\Car GUI\Car GUI\obj\Debug\Car_GUI.EditForm.resources
+D:\4 sem\C#\Car GUI\Car GUI\obj\Debug\Car_GUI.MainForm.resources
+D:\4 sem\C#\Car GUI\Car GUI\obj\Debug\Car_GUI.Properties.Resources.resources
+D:\4 sem\C#\Car GUI\Car GUI\obj\Debug\Car GUI.csproj.GenerateResource.cache
+D:\4 sem\C#\Car GUI\Car GUI\obj\Debug\Car GUI.csproj.CoreCompileInputs.cache
+D:\4 sem\C#\Car GUI\Car GUI\obj\Debug\Car GUI.exe
+D:\4 sem\C#\Car GUI\Car GUI\obj\Debug\Car GUI.pdb
+D:\4 sem\C#\Car GUI\Car GUI\obj\Debug\Car_GUI.OpenForm.resources
+C:\Users\Екатерина\Desktop\Car GUI\Car GUI\bin\Debug\Car GUI.exe.config
+C:\Users\Екатерина\Desktop\Car GUI\Car GUI\bin\Debug\Car GUI.exe
+C:\Users\Екатерина\Desktop\Car GUI\Car GUI\bin\Debug\Car GUI.pdb
+C:\Users\Екатерина\Desktop\Car GUI\Car GUI\obj\Debug\Car GUI.csprojAssemblyReference.cache
+C:\Users\Екатерина\Desktop\Car GUI\Car GUI\obj\Debug\Car_GUI.EditForm.resources
+C:\Users\Екатерина\Desktop\Car GUI\Car GUI\obj\Debug\Car_GUI.MainForm.resources
+C:\Users\Екатерина\Desktop\Car GUI\Car GUI\obj\Debug\Car_GUI.OpenForm.resources
+C:\Users\Екатерина\Desktop\Car GUI\Car GUI\obj\Debug\Car_GUI.Properties.Resources.resources
+C:\Users\Екатерина\Desktop\Car GUI\Car GUI\obj\Debug\Car GUI.csproj.GenerateResource.cache
+C:\Users\Екатерина\Desktop\Car GUI\Car GUI\obj\Debug\Car GUI.csproj.CoreCompileInputs.cache
+C:\Users\Екатерина\Desktop\Car GUI\Car GUI\obj\Debug\Car GUI.exe
+C:\Users\Екатерина\Desktop\Car GUI\Car GUI\obj\Debug\Car GUI.pdb
