@@ -1,0 +1,14 @@
+D:\4 sem\C#\LR3 Mashini\LR3 Mashini\obj\Debug\LR3 Mashini.csprojResolveAssemblyReference.cache
+D:\4 sem\C#\LR3 Mashini\LR3 Mashini\obj\Debug\LR3 Mashini.csproj.CoreCompileInputs.cache
+D:\4 sem\C#\LR3 Mashini\LR3 Mashini\bin\Debug\LR3 Mashini.exe.config
+D:\4 sem\C#\LR3 Mashini\LR3 Mashini\bin\Debug\LR3 Mashini.exe
+D:\4 sem\C#\LR3 Mashini\LR3 Mashini\bin\Debug\LR3 Mashini.pdb
+D:\4 sem\C#\LR3 Mashini\LR3 Mashini\obj\Debug\LR3 Mashini.exe
+D:\4 sem\C#\LR3 Mashini\LR3 Mashini\obj\Debug\LR3 Mashini.pdb
+C:\Users\Екатерина\Desktop\LR3 Mashini\LR3 Mashini\bin\Debug\LR3 Mashini.exe.config
+C:\Users\Екатерина\Desktop\LR3 Mashini\LR3 Mashini\bin\Debug\LR3 Mashini.exe
+C:\Users\Екатерина\Desktop\LR3 Mashini\LR3 Mashini\bin\Debug\LR3 Mashini.pdb
+C:\Users\Екатерина\Desktop\LR3 Mashini\LR3 Mashini\obj\Debug\LR3 Mashini.csprojAssemblyReference.cache
+C:\Users\Екатерина\Desktop\LR3 Mashini\LR3 Mashini\obj\Debug\LR3 Mashini.csproj.CoreCompileInputs.cache
+C:\Users\Екатерина\Desktop\LR3 Mashini\LR3 Mashini\obj\Debug\LR3 Mashini.exe
+C:\Users\Екатерина\Desktop\LR3 Mashini\LR3 Mashini\obj\Debug\LR3 Mashini.pdb
